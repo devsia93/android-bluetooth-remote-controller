@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">gackaton</string>
+    <string name="main_text_view">Bluetooth has no activated</string>
+    <string name="title_activity_driving">DrivingActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="main_text_view_bluetooth">Выберите одно из доступных устройств bluetooth.</string>
+    <string name="enable_bluetooth">Enable Bluetooth</string>
+    <string name="disable_bluetooth">Disable Bluetooth</string>
+    <string name="scan_devices">Scan devices</string>
+    <string name="forward">Forward</string>
+    <string name="left">Left</string>
+    <string name="right">Right</string>
+    <string name="backward">Backward</string>
+</resources>
